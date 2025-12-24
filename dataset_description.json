@@ -1,0 +1,13 @@
+{
+    "Name": "An open fMRI dataset examining the effects of online social and non-social information distraction on global-local attention",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Congcong Liu",
+        "Xiangting Dai",
+        "MengYuan", 
+        "Zijie Wei",
+        "Juan Kou"
+    ]
+}

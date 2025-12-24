@@ -1,0 +1,12 @@
+{
+    "Name": "Slicereport - A visual inspection report",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.6.2",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        }
+    ]
+}
